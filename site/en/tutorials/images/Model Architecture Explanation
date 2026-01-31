@@ -1,0 +1,3 @@
+- Conv2D layers are used instead of fully connected layers to capture spatial patterns.
+- MaxPooling is applied to reduce feature map size and control overfitting.
+- Dense layers act as a classifier on extracted features.
