@@ -1,5 +1,0 @@
-- CNNs are designed to work with grid-like data such as images.
-- Convolution layers extract spatial features using learnable filters.
-- Pooling layers reduce spatial dimensions and computational cost.
-- Flattening converts feature maps into a vector for dense layers.
-- CNNs preserve spatial relationships better than ANN for image data.
